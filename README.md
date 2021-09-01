@@ -12,4 +12,3 @@
             {:add, 10}
             iex(3)> Calc.sub(pid, 10-2)
             {:sub, 8} `
-"# simple-calculator-using-elixir" 
